@@ -34,45 +34,11 @@ Make sure you have **Node.js** and **npm** installed.
 
 Run the following command in your terminal:
 
-````sh
+```sh
 npm install
 
 
----
-
-## 🚀 To Start the Application
-
-Follow these steps to run the project locally:
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/harsha-flix.git
-   cd harsha-flix
-
-
----
-
-
-## 🎬 How to Use
-
-1. **Open the Application**
-   - Run the app and go to **`http://localhost:3000/`** in your browser.
-
-2. **Browse Movies**
-   - The homepage displays a collection of AI-generated movies.
-
-3. **Search & Filter Movies**
-   - Use the **search bar** to find movies by title.
-   - Use the **genre and rating filters** to refine your search.
-
-4. **Add Movies to Watchlist**
-   - Click the **toggle switch** on a movie card to **add/remove** it from your **watchlist**.
-
-5. **View Your Watchlist**
-   - Click on the **"Watchlist"** link in the navigation bar to see your saved movies.
-
----
 
 
 
-````
+```
