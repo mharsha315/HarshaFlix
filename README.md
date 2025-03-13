@@ -1,4 +1,4 @@
-# 🎬 HarshaFlix
+# 🎬 HarshaFlix (Front-End Only)
 
 **HarshaFlix** is a simple movie browsing application built with React. It allows users to browse a list of AI-generated movies, filter them based on genre and rating, and add movies to their watchlist. The project showcases **React.js**, **React Router**, and **CSS styling**.
 
