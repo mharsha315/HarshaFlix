@@ -37,8 +37,16 @@ Run the following command in your terminal:
 ```sh
 npm install
 
-
-
-
-
 ```
+
+## 🚀 To Start the Application
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/harsha-flix.git
+   cd harsha-flix
+   npm install
+   npm start
+   ```
