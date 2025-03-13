@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# 🎬 HarshaFlix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**HarshaFlix** is a simple movie browsing application built with React. It allows users to browse a list of AI-generated movies, filter them based on genre and rating, and add movies to their watchlist. The project showcases **React.js**, **React Router**, and **CSS styling**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Features
 
-### `npm start`
+- 🎥 Browse a collection of AI-generated movies.
+- 🔍 Search movies by title.
+- 🎭 Filter movies based on **genre** and **rating**.
+- 📌 Add/remove movies from the **watchlist**.
+- 🌑 Simple and elegant UI.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
 
-### `npm test`
+- **React.js** (Frontend UI)
+- **React Router** (Navigation)
+- **CSS** (Styling)
+- **JavaScript** (Logic)
+- **JSON** (Data storage)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Installation & Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📌 Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Make sure you have **Node.js** and **npm** installed.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🛠️ Install Dependencies
 
-### `npm run eject`
+Run the following command in your terminal:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+````sh
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 To Start the Application
 
-## Learn More
+Follow these steps to run the project locally:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/harsha-flix.git
+   cd harsha-flix
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 🎬 How to Use
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. **Open the Application**
+   - Run the app and go to **`http://localhost:3000/`** in your browser.
 
-### Making a Progressive Web App
+2. **Browse Movies**
+   - The homepage displays a collection of AI-generated movies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+3. **Search & Filter Movies**
+   - Use the **search bar** to find movies by title.
+   - Use the **genre and rating filters** to refine your search.
 
-### Advanced Configuration
+4. **Add Movies to Watchlist**
+   - Click the **toggle switch** on a movie card to **add/remove** it from your **watchlist**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+5. **View Your Watchlist**
+   - Click on the **"Watchlist"** link in the navigation bar to see your saved movies.
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+````
